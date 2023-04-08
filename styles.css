@@ -1,1 +1,39 @@
-/*  your css code here. If applicable */
+
+*{
+	margin: 0px;
+    padding: 0px;
+	box-sizing: border-box;
+  }
+
+  .card-1 {
+    width: 40%;
+    padding: 40px;
+    background-color: #f1f1f1 ;
+	text-align: center;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  }
+
+ .card-1 p{
+    font-size: 16px;
+  }
+
+  .card-1 h1{
+    font-size: 26px;
+  }
+
+  .card-1 img{
+    width: 100%;
+  }
+
+  .button-1{
+    padding: 10px;
+    background-color: #fe625a;
+	color: white;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 16px;
+	border:none;
+    cursor:pointer;
+    margin-top:10px;
+  }
